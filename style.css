@@ -647,14 +647,14 @@ p.footer__copy{
     
     .img-home{
         position: absolute;
-        bottom: 90vh;
+        bottom: 80vh;
         right: 45%;
         max-width: 320px;
     }
 
     .img-home2{
         position: absolute;
-        bottom: 90vh;
+        bottom: 80vh;
         left: 45%;
         max-width: 320px;
     }
